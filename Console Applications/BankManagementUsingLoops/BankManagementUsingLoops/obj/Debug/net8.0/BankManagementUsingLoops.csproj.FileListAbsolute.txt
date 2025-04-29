@@ -1,0 +1,15 @@
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.AssemblyInfoInputs.cache
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.AssemblyInfo.cs
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.csproj.CoreCompileInputs.cache
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.sourcelink.json
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\bin\Debug\net8.0\BankManagementUsingLoops.exe
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\bin\Debug\net8.0\BankManagementUsingLoops.deps.json
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\bin\Debug\net8.0\BankManagementUsingLoops.runtimeconfig.json
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\bin\Debug\net8.0\BankManagementUsingLoops.dll
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\bin\Debug\net8.0\BankManagementUsingLoops.pdb
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.dll
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\refint\BankManagementUsingLoops.dll
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.pdb
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\BankManagementUsingLoops.genruntimeconfig.cache
+C:\Training\Cognizant-Training\Console Applications\BankManagementUsingLoops\BankManagementUsingLoops\obj\Debug\net8.0\ref\BankManagementUsingLoops.dll

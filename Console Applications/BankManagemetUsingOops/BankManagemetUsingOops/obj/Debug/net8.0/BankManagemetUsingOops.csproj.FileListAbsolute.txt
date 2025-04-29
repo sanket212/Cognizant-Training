@@ -1,0 +1,15 @@
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.AssemblyInfoInputs.cache
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.AssemblyInfo.cs
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.csproj.CoreCompileInputs.cache
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.sourcelink.json
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\bin\Debug\net8.0\BankManagemetUsingOops.exe
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\bin\Debug\net8.0\BankManagemetUsingOops.deps.json
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\bin\Debug\net8.0\BankManagemetUsingOops.runtimeconfig.json
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\bin\Debug\net8.0\BankManagemetUsingOops.dll
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\bin\Debug\net8.0\BankManagemetUsingOops.pdb
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.dll
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\refint\BankManagemetUsingOops.dll
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.pdb
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\BankManagemetUsingOops.genruntimeconfig.cache
+C:\Training\Cognizant-Training\Console Applications\BankManagemetUsingOops\BankManagemetUsingOops\obj\Debug\net8.0\ref\BankManagemetUsingOops.dll
