@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|solutionrelative:bankmanagemetusingoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|c:\\training\\cognizant-training\\console applications\\bankmanagemetusingoops\\bankmanagemetusingoops\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|solutionrelative:bankmanagemetusingoops\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|c:\\training\\cognizant-training\\console applications\\bankmanagemetusingoops\\bankmanagemetusingoops\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|solutionrelative:bankmanagemetusingoops\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|c:\\training\\cognizant-training\\console applications\\bankmanagemetusingoops\\bankmanagemetusingoops\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|solutionrelative:bankmanagemetusingoops\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|c:\\training\\cognizant-training\\console applications\\bankmanagemetusingoops\\bankmanagemetusingoops\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|solutionrelative:bankmanagemetusingoops\\ibankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|c:\\training\\cognizant-training\\console applications\\bankmanagemetusingoops\\bankmanagemetusingoops\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|solutionrelative:bankmanagemetusingoops\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A351B302-D781-46BA-97F7-8F9E82562D47}|BankManagemetUsingOops\\BankManagemetUsingOops.csproj|c:\\training\\cognizant-training\\console applications\\bankmanagemetusingoops\\bankmanagemetusingoops\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +34,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\appsettings.json",
+              "RelativeDocumentMoniker": "BankManagemetUsingOops\\appsettings.json",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\appsettings.json",
+              "RelativeToolTip": "BankManagemetUsingOops\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T07:04:55.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\BankAccount.cs",
               "RelativeDocumentMoniker": "BankManagemetUsingOops\\BankAccount.cs",
               "ToolTip": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\BankAccount.cs",
               "RelativeToolTip": "BankManagemetUsingOops\\BankAccount.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:16:51.886Z",
               "EditorCaption": ""
@@ -53,33 +70,33 @@
               "RelativeDocumentMoniker": "BankManagemetUsingOops\\IBankAccount.cs",
               "ToolTip": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\IBankAccount.cs",
               "RelativeToolTip": "BankManagemetUsingOops\\IBankAccount.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:15:33.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AccountType.cs",
               "DocumentMoniker": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\AccountType.cs",
               "RelativeDocumentMoniker": "BankManagemetUsingOops\\AccountType.cs",
               "ToolTip": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\AccountType.cs",
               "RelativeToolTip": "BankManagemetUsingOops\\AccountType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:13:40.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\Models\\Account.cs",
               "RelativeDocumentMoniker": "BankManagemetUsingOops\\Models\\Account.cs",
               "ToolTip": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\Models\\Account.cs",
               "RelativeToolTip": "BankManagemetUsingOops\\Models\\Account.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:12:32.352Z",
               "EditorCaption": ""
@@ -92,7 +109,7 @@
               "RelativeDocumentMoniker": "BankManagemetUsingOops\\Program.cs",
               "ToolTip": "C:\\Training\\Cognizant-Training\\Console Applications\\BankManagemetUsingOops\\BankManagemetUsingOops\\Program.cs",
               "RelativeToolTip": "BankManagemetUsingOops\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T07:10:30.185Z",
               "EditorCaption": ""

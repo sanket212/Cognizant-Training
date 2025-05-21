@@ -1,47 +1,71 @@
 ﻿using BankManagemetUsingOops;
+using Microsoft.Extensions.Configuration; // Add this using directive
+using System;
+using System.IO; // Add this using directive
 
 namespace BankManagementUsingOops
 {
     public class Program
     {
+        public static IConfiguration Configuration { get; private set; }
+
         public static void Main()
         {
-            BankAccount bankAccount = new BankAccount();
-            bool isExited =false;
+            // 1. Build the configuration
+            Configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory()) // Tells the builder where to look for appsettings.json
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true) // Add your JSON file
+                .Build();
 
-            while(!isExited)
+            // 2. Pass the connection string to BankAccount
+            // You'll need to modify the BankAccount constructor to accept the connection string.
+            IBankAccount bankAccount = new BankAccount(Configuration.GetConnectionString("BankDBConnection"));
+
+            bool isExited = false;
+
+            while (!isExited)
             {
-                Console.WriteLine("\nBank Management System");
-                Console.WriteLine("1.Create Bank Account");
-                Console.WriteLine("2.Deposit money");
-                Console.WriteLine("3.Withdraw money");
-                Console.WriteLine("4.Show Account details");
+                Console.WriteLine("\n--- Bank Management System ---");
+                Console.WriteLine("1. Create Bank Account");
+                Console.WriteLine("2. Deposit Money");
+                Console.WriteLine("3. Withdraw Money");
+                Console.WriteLine("4. Show Account Details");
                 Console.WriteLine("5. Exit");
-                Console.WriteLine("\nChoose a option");
-                int choice = int.Parse(Console.ReadLine());
+                Console.Write("\nChoose an option: ");
 
+                if (!int.TryParse(Console.ReadLine(), out int choice))
+                {
+                    Console.WriteLine("Invalid input. Please enter a number.");
+                    continue;
+                }
 
-                switch(choice)
+                switch (choice)
                 {
                     case 1:
-                        Console.WriteLine("Enter your account number");
-                        int accountNumber = int.Parse(Console.ReadLine());
-                        Console.WriteLine("Enter your Name");
+                        Console.Write("Enter account holder name: ");
                         string accountHolderName = Console.ReadLine();
-                        Console.WriteLine("Enter your initial Balance");
-                        decimal initialBalance= decimal.Parse(Console.ReadLine());
-                        Console.WriteLine("Enter type of account \t Savings or Current");
+                        Console.Write("Enter initial balance: ");
+                        if (!decimal.TryParse(Console.ReadLine(), out decimal initialBalance) || initialBalance < 0)
+                        {
+                            Console.WriteLine("Invalid initial balance. Please enter a non-negative number.");
+                            break;
+                        }
+                        Console.Write("Enter type of account (Savings or Current): ");
                         string type = Console.ReadLine();
 
-                        bankAccount.CreateAccount(accountNumber, accountHolderName, initialBalance,type);
+                        if (!Enum.TryParse(typeof(AccountType), type, true, out _))
+                        {
+                            Console.WriteLine("Invalid account type. Please enter 'Savings' or 'Current'.");
+                            break;
+                        }
+
+                        bankAccount.CreateAccount(0, accountHolderName, initialBalance, type);
                         break;
 
                     case 2:
-                       
                         bankAccount.Deposit();
                         break;
                     case 3:
-                        
                         bankAccount.Withdraw();
                         break;
                     case 4:
@@ -49,9 +73,10 @@ namespace BankManagementUsingOops
                         break;
                     case 5:
                         isExited = true;
+                        Console.WriteLine("Exiting Bank Management System. Goodbye!");
                         break;
                     default:
-                        Console.WriteLine("Invalid option , please try again!");
+                        Console.WriteLine("Invalid option, please try again!");
                         break;
                 }
             }

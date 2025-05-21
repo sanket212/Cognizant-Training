@@ -9,6 +9,7 @@ namespace BankManagemetUsingOops
     public enum AccountType
     {
         Savings,
-        Current
+        Current,
+        Sanket
     }
 }

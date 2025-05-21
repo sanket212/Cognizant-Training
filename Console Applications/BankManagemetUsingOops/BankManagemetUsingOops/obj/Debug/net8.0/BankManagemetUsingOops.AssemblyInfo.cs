@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BankManagemetUsingOops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad1b671dffad1beb860a283cf73289b9bbef7b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fb8470d4d2715cbaebb431f3a2660cbc0b4e392")]
 [assembly: System.Reflection.AssemblyProductAttribute("BankManagemetUsingOops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BankManagemetUsingOops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
