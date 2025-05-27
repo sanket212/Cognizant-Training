@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Bank Management System</h1>
+    <p>Use the navigation bar above to manage bank accounts.</p>
+    <div class="mt-4">
+        <a asp-controller="Account" asp-action="Create" class="btn btn-primary btn-lg m-2">Create New Account</a>
+        <a asp-controller="Account" asp-action="Deposit" class="btn btn-success btn-lg m-2">Deposit Funds</a>
+        <a asp-controller="Account" asp-action="Withdraw" class="btn btn-warning btn-lg m-2">Withdraw Funds</a>
+        <a asp-controller="Account" asp-action="Details" class="btn btn-info btn-lg m-2">View Account Details</a>
+    </div>
+</div>

@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\models\\accouttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\models\\accouttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\account\\accountdetailsdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\account\\accountdetailsdisplay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\account\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\account\\withdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\account\\withdraw.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\account\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\account\\deposit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\models\\services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\models\\services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\models\\services\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\models\\services\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\models\\depositwithdrawviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\models\\depositwithdrawviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|c:\\training\\cognizant-training\\mvc\\bankmanagementmvcapp\\bankmanagementmvcapp\\bankmanagementmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44C93CAC-FE35-4518-913B-DEF1942291E8}|BankManagementMvcApp\\BankManagementMvcApp.csproj|solutionrelative:bankmanagementmvcapp\\bankmanagementmvcapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:28:57.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:23:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:33:58.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:25:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccoutType.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\AccoutType.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Models\\AccoutType.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\AccoutType.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Models\\AccoutType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:16:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\appsettings.json",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\appsettings.json",
+              "RelativeToolTip": "BankManagementMvcApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T10:22:32.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:23:53.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Models\\Account.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\Account.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Models\\Account.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:15:51.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountDetailsDisplay.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\AccountDetailsDisplay.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Account\\AccountDetailsDisplay.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\AccountDetailsDisplay.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Account\\AccountDetailsDisplay.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:22:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Details.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Account\\Details.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Details.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Account\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:21:39.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Withdraw.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Withdraw.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Account\\Withdraw.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Withdraw.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Account\\Withdraw.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:21:09.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deposit.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Deposit.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Account\\Deposit.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Deposit.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Account\\Deposit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:20:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T04:19:23.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "BankManagementMvcApp\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T10:36:19.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:30:18.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Program.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Program.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:23:13.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBankAccountService.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\Services\\IBankAccountService.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Models\\Services\\IBankAccountService.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\Services\\IBankAccountService.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Models\\Services\\IBankAccountService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:17:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepositWithdrawViewModel.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\DepositWithdrawViewModel.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Models\\DepositWithdrawViewModel.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\DepositWithdrawViewModel.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Models\\DepositWithdrawViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:20:59.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BankManagementMvcApp.csproj",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\BankManagementMvcApp.csproj",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\BankManagementMvcApp.csproj",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\BankManagementMvcApp.csproj",
+              "RelativeToolTip": "BankManagementMvcApp\\BankManagementMvcApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T10:18:03.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BankAccountService.cs",
+              "DocumentMoniker": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\Services\\BankAccountService.cs",
+              "RelativeDocumentMoniker": "BankManagementMvcApp\\Models\\Services\\BankAccountService.cs",
+              "ToolTip": "C:\\Training\\Cognizant-Training\\MVC\\BankManagementMvcApp\\BankManagementMvcApp\\Models\\Services\\BankAccountService.cs",
+              "RelativeToolTip": "BankManagementMvcApp\\Models\\Services\\BankAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:17:24.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

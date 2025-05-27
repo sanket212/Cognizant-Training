@@ -1,0 +1,36 @@
+﻿@model BankManagementMvcApp.Models.Account
+
+@{
+    ViewData["Title"] = "Account Details";
+}
+
+<h1>Account Details</h1>
+
+<div>
+    <h4>Account Number: @Model.AccountNumber</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.AccountHolderName)
+        </dt>
+        <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.AccountHolderName)
+        </dd>
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.BankBalance)
+        </dt>
+        <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.BankBalance)
+        </dd>
+        <dt class="col-sm-4">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd class="col-sm-8">
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Details" class="btn btn-secondary">Search Another Account</a> |
+    <a asp-action="Index" asp-controller="Home">Back to Home</a>
+</div>
